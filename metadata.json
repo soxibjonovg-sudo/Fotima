@@ -1,0 +1,6 @@
+{
+  "name": "EKUB va EKUK Matematika Olami",
+  "description": "EKUB va EKUK mavzusida 15+ xil interaktiv o'yinlar, arqon tortish, krossvord, testlar, chuqur interaktiv nazariya va Gemini AI orqali murakkab savollarga tezkor yechimlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
